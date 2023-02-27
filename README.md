@@ -9,4 +9,4 @@ Om buffere.
 
 Om Scanner, Reader og Writer.
 
-Og Docker.
+Og Docker and more ..
